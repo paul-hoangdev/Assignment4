@@ -49,3 +49,5 @@ getAllStudents(): Retrieves all student records from the students table and disp
 addStudent(first_name, last_name, email, enrollment_date): Inserts a new student record into the students table. Parameters are the student's first name, last name, email, and enrollment date.
 updateStudentEmail(student_id, new_email): Updates the email address for a student. Requires the student's ID and the new email address.
 deleteStudent(student_id): Deletes the record of a student with the specified student ID.
+
+Youtube Link: https://youtu.be/g4nuD0THFCA
