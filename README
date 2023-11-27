@@ -38,7 +38,7 @@ Ensure Python is installed on your system. Python Downloads
 Install psycopg2:
 pip install psycopg2
 Configuration:
-Update the database connection parameters in school_app.py with your PostgreSQL credentials.
+Update the database connection parameters in main.py with your PostgreSQL credentials.
 
 Compile and Run the Application
 Run the application using Python:
